@@ -39,3 +39,10 @@
 - **CEO & Technical Operations Lead:** Prabhjot Singh (`prabhjotsingh@tatkhalsa.in`)
 - **Registered Office:** GF 37, Bazidpur, Teh-Nawanshahr, SBS Nagar, Punjab - 144518, India
 - **Official Contacts:** `info@tatkhalsa.in` · `ceo@tatkhalsa.in` · India Helpline: `+91 98770-38520` · WhatsApp Support: `+44 7418 378646`
+---
+
+## Core Maintainers & Contributors
+
+- **Prabhjot Singh** ([@TurbansPride-ENG](https://github.com/TurbansPride-ENG)) — CEO, Technical Operations Lead & Lead Architect
+- **Tatkhalsa Foundation** ([@tatkhalsafoundation](https://github.com/tatkhalsafoundation)) — Organization & Core Maintainer
+- 
