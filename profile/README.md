@@ -43,6 +43,6 @@
 
 ## Core Maintainers & Contributors
 
-- **Prabhjot Singh** ([@TurbansPride-ENG](https://github.com/TurbansPride-ENG)) — CEO, Technical Operations Lead & Lead Architect
+- **Prabhjot Singh** ([@PrabhjotSingh-Tatkhalsa](https://github.com/PrabhjotSingh-Tatkhalsa)) – CEO, Technical Operations Lead & Lead Architect
 - **Tatkhalsa Foundation** ([@tatkhalsafoundation](https://github.com/tatkhalsafoundation)) — Organization & Core Maintainer
   
